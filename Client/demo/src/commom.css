@@ -1,0 +1,56 @@
+.myDiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(238, 225, 225);
+    font-weight: bold;
+    color: white;
+    font-size: larger;
+}
+
+.yourDiv{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+
+.heading{
+
+    font-family: 'Bagel Fat One', cursive;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-family: 'Pangolin', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Stylish', sans-serif;
+}
+
+.quotes{
+    font-family: 'Bagel Fat One', cursive;
+font-family: 'Pangolin', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Special Elite', cursive;
+font-family: 'Stylish', sans-serif;
+}
+.myfooter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: navy;
+    color: white;
+}
+
+.topic{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: navy;
+    color: white;
+    font-size:50px;
+
+}
+.navbarDiv{
+    text-align: center;
+    font-size: large;
+}
